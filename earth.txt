@@ -1,2 +1,2 @@
-Hello i am a planet
-Ok im adding another line 
+Hello i am a planet -SG
+Ok im adding another line -SG 
